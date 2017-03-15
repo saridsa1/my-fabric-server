@@ -4,7 +4,7 @@
   "description": "Server to back up the fabric UI repo",
   "main": "index.js",
   "scripts": {
-    "start": "npm run server",
+    "start": "node server.js",
     "server": "node server.js"
   },
   "repository": {
