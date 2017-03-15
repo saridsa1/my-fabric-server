@@ -1,0 +1,25 @@
+{
+  "name": "my-fabric-server",
+  "version": "1.0.0",
+  "description": "Server to back up the fabric UI repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saridsa1/my-fabric-server.git"
+  },
+  "author": "Suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saridsa1/my-fabric-server/issues"
+  },
+  "homepage": "https://github.com/saridsa1/my-fabric-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "firebase": "^3.7.1",
+    "firebase-admin": "^4.1.3"
+  }
+}
